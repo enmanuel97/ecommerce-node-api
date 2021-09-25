@@ -1,9 +1,13 @@
-# Run
-
 ### Install
 
 ```
 npm install
+```
+
+### Copy .env file
+
+```
+cp .env.example .env
 ```
 
 ### Start API
